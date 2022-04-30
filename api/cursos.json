@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nome": "Análise e Desenvolvimento de Sistemas",
+        "duracaoEmSemestres": 5,
+        "area": "Tecnologia",
+        "urlImagem": "https://www.senairs.org.br/sites/default/files/styles/2x1_lg/public/paragraphs--image-top/istock-843016322-analise-desenvolvimento-de-sistemas_0.jpg?",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper ex nec lorem ultricies lacinia. Aliquam ac risus vel nisi congue iaculis. Praesent ante ligula, tincidunt sed turpis a, placerat tempus massa. Phasellus porttitor diam eget massa blandit imperdiet. "
+    },
+    {
+        "id": 2,
+        "nome": "Direito",
+        "duracaoEmSemestres": 10,
+        "area": "Justiça",
+        "urlImagem": "https://img.imageboss.me/revista-cdn/cdn/19297/f27ff0fd7adeedc515108f2bf4a73c0c9bdf8c0b.jpg?1558553848",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper ex nec lorem ultricies lacinia. Aliquam ac risus vel nisi congue iaculis. Praesent ante ligula, tincidunt sed turpis a, placerat tempus massa. Phasellus porttitor diam eget massa blandit imperdiet. Maecenas quis consectetur libero, nec fermentum nisl."
+    },
+    {
+        "id": 3,
+        "nome": "Fisioterapia",
+        "duracaoEmSemestres": 8,
+        "area": "Saúde",
+        "urlImagem": "https://deolhonofuturo.uninter.com/wp-content/uploads/2020/03/original-7645973240e951838300d01d64de8bfa.jpeg",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper ex nec lorem ultricies lacinia. Phasellus porttitor diam eget massa blandit imperdiet. Maecenas quis consectetur libero, nec fermentum nisl. Duis aliquam turpis quam, tincidunt ullamcorper orci viverra sit amet."
+    },
+    {
+        "id": 4,
+        "nome": "Contabilidade",
+        "duracaoEmSemestres": 8,
+        "area": "Finanças",
+        "urlImagem": "https://grantime.com.br/wp-content/uploads/2021/12/TI.jpeg",
+        "descricao": "Phasellus porttitor diam eget massa blandit imperdiet. Maecenas quis consectetur libero, nec fermentum nisl. Duis aliquam turpis quam, tincidunt ullamcorper orci viverra sit amet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut non ligula at erat maximus imperdiet quis sed nisl. Maecenas augue massa, pretium a quam sed, pulvinar molestie neque."
+    },
+    {
+        "id": 5,
+        "nome": "Biomedicina",
+        "duracaoEmSemestres": 10,
+        "area": "Saúde",
+        "urlImagem": "https://www.todoestudo.com.br/wp-content/uploads/2018/07/biomedicina.jpg",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper ex nec lorem ultricies lacinia. Aliquam ac risus vel nisi congue iaculis. Praesent ante ligula, tincidunt sed turpis a, placerat tempus massa. Phasellus porttitor diam eget massa blandit imperdiet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut non ligula at erat maximus imperdiet quis sed nisl. Maecenas augue massa, pretium a quam sed, pulvinar molestie neque."
+    },
+    {
+        "id": 6,
+        "nome": "Gestão de Recursos Humanos",
+        "duracaoEmSemestres": 8,
+        "area": "Negócios",
+        "urlImagem": "https://www.unicesumar.edu.br/blog/wp-content/uploads/2017/08/gestao-de-recursos-humanos.jpeg",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper ex nec lorem ultricies lacinia. Aliquam ac risus vel nisi congue iaculis. Praesent ante ligula, tincidunt sed turpis a, placerat tempus massa. Phasellus porttitor diam eget massa blandit imperdiet. Maecenas quis consectetur libero, nec fermentum nisl. Duis aliquam turpis quam, tincidunt ullamcorper orci viverra sit amet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut non ligula at erat maximus imperdiet quis sed nisl. Maecenas augue massa, pretium a quam sed, pulvinar molestie neque."
+    },
+    {
+        "id": 7,
+        "nome": "Pedagogia",
+        "duracaoEmSemestres": 8,
+        "area": "Educação",
+        "urlImagem": "https://www.unicesumar.edu.br/blog/wp-content/uploads/2022/01/curso-de-pedagogia-min.jpeg",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper ex nec lorem ultricies lacinia. Aliquam ac risus vel nisi congue iaculis. Praesent ante ligula, tincidunt sed turpis a, placerat tempus massa. Phasellus porttitor diam eget massa blandit imperdiet. Maecenas quis consectetur libero, nec fermentum nisl. Duis aliquam turpis quam, tincidunt ullamcorper orci viverra sit amet. Maecenas augue massa, pretium a quam sed, pulvinar molestie neque."
+    }
+]

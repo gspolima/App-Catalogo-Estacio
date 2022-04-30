@@ -20,7 +20,7 @@ export default function LoginPage() {
 
     const redirect = () => {
         credenciaisValidas === true
-            ? RootNavigation.navigateTo('Cursos') 
+            ? RootNavigation.navigateTo('Cursos')
             : RootNavigation.navigateTo('Login');
     }
 
@@ -55,7 +55,7 @@ export default function LoginPage() {
                     </TouchableOpacity>
                     { 
                         credenciaisValidas === false
-                            ? <Text>Login incorreto</Text> 
+                            ? <Text>Verifique seus dados</Text> 
                             : <Text>Entrando...</Text>
                     }
                 </View>
