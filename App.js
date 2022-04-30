@@ -8,6 +8,8 @@ import AppLoading from 'expo-app-loading';
 import LoginPage from './components/Login';
 import { navigationRef } from './routing/RootNavigation';
 import Header from './components/Header';
+import Cursos from './components/Cursos';
+import DetalhesCurso from './components/DetalhesCurso';
 
 const Stack = createStackNavigator();
 
@@ -35,6 +37,20 @@ export default function App() {
             component={LoginPage}
             options={{
               header: () => <Header headerDisplayName='Login'/>
+            }}
+          />
+          <Stack.Screen
+            name='Cursos'
+            component={Cursos}
+            options={{
+              header: () => <Header headerDisplayName='Cursos'/>
+            }}
+          />
+          <Stack.Screen
+            name='DetalhesCurso'
+            component={DetalhesCurso}
+            options={{
+              header: () => <Header headerDisplayName='Detalhes do Curso'/>
             }}
           />
         </Stack.Navigator>
